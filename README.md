@@ -1,1 +1,1 @@
-Proyecto compilado con GCC, que se encuentra incluido en el entorno MSYS2.
+Proyecto compilado con GCC, incluido en el entorno MSYS2.
